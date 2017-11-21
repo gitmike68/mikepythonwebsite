@@ -4,7 +4,7 @@ def application(environ, start_response):
     body=""
     if "QUERY_STRING" in environ:
         for param in environ["QUERY_STRING"].split("&"):
-            body+=param
+            body+=param+"\n"
     start_response(status,headers)
 
     return [body.encode()]
