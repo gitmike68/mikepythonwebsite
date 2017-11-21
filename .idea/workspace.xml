@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/img/1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/nginx.conf" afterPath="$PROJECT_DIR$/web/etc/nginx.conf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +17,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="49" column="44" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="44" />
+            <state relative-caret-position="314">
+              <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -99,9 +98,9 @@
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/script/lesson1.sh" />
-        <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
         <option value="$PROJECT_DIR$/web/index.htm.html" />
         <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
       </list>
     </option>
   </component>
@@ -153,6 +152,12 @@
               <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
               <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
@@ -385,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511263456057</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="настраиваем маппинг jpeg">
+      <created>1511264668854</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1511264668854</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -463,7 +475,8 @@
     <MESSAGE value="добавлен простейший клиент-сервер TCP" />
     <MESSAGE value="добавлены папки" />
     <MESSAGE value="устанавливаем конфигурационный файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="устанавливаем конфигурационный файл" />
+    <MESSAGE value="настраиваем маппинг jpeg" />
+    <option name="LAST_COMMIT_MESSAGE" value="настраиваем маппинг jpeg" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -563,18 +576,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="49" column="44" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding />
         </state>
       </provider>
