@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/lesson1.sh" afterPath="$PROJECT_DIR$/script/lesson1.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/nginx.conf" afterPath="$PROJECT_DIR$/web/etc/nginx.conf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lesson1.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson1.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/lesson1.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -76,8 +86,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
         <option value="$PROJECT_DIR$/script/lesson1.sh" />
+        <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
       </list>
     </option>
   </component>
@@ -344,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511248167512</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="устанавливаем конфигурационный файл">
+      <created>1511248541018</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1511248541018</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -514,18 +531,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="52" column="39" lean-forward="false" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/lesson1.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
           <folding />
         </state>
       </provider>
