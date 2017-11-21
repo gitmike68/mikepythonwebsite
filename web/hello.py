@@ -10,4 +10,4 @@ def application(environ, start_response):
     body="Hello world"
     start_response(status,headers)
 
-    return [body]
+    return [body.encode()]
