@@ -8,8 +8,10 @@
 Работает на NGinX
 <ol>
     <li><a href="uploads/1.jpg">/upload/1.jpg -> alias /home/box/web/uploads/ </a></li>
-    <li><a href="1.jpeg">jpeg файлы -> alias /home/box/web/public/ </a></li>
-    <li><a href="img/1.jpeg">jpeg файлы -> alias /home/box/web/public/img/ </a></li>
+    <li><a href="1.jpeg">jpeg файлы -> root /home/box/web/public </a></li>
+    <li><a href="img/1.jpeg">jpeg файлы -> root /home/box/web/public/img </a></li>
+    <li><a href="etc/1.png">остальные (etc/1.png) -> alias /home/box/web/ </a></li>
+    <li><a href="img/1.jpeg">URL без расширения -> root /var/www/htmljdfshgkjshdgkjjdsf </a></li>
 </ol>
 </body>
 </html>
