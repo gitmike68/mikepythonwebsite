@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/!all.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/lesson1.sh" afterPath="$PROJECT_DIR$/script/lesson1.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/nginx.conf" afterPath="$PROJECT_DIR$/web/etc/nginx.conf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="331">
-              <caret line="57" column="38" lean-forward="false" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+              <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -50,8 +52,18 @@
       <file leaf-file-name="lesson1.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/lesson1.sh">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="!all.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script/!all.sh">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -109,9 +121,10 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/web/index.htm.html" />
         <option value="$PROJECT_DIR$/web/etc/text" />
-        <option value="$PROJECT_DIR$/script/lesson1.sh" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
+        <option value="$PROJECT_DIR$/script/!all.sh" />
+        <option value="$PROJECT_DIR$/script/lesson1.sh" />
       </list>
     </option>
   </component>
@@ -422,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511269406388</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="настройки папок сервера">
+      <created>1511274145675</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1511274145675</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -602,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/lesson1.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -621,7 +633,23 @@
     <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
-          <caret line="57" column="38" lean-forward="false" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+          <caret line="57" column="51" lean-forward="false" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/lesson1.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/!all.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
