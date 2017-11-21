@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/!all.sh" afterPath="$PROJECT_DIR$/script/!all.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/lesson2.sh" afterPath="$PROJECT_DIR$/script/lesson2.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="!all.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="!all.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/!all.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson2.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lesson2.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/lesson2.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,8 +115,8 @@
         <option value="$PROJECT_DIR$/web/etc/hello.py" />
         <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
         <option value="$PROJECT_DIR$/web/hello.py" />
-        <option value="$PROJECT_DIR$/script/lesson2.sh" />
         <option value="$PROJECT_DIR$/script/!all.sh" />
+        <option value="$PROJECT_DIR$/script/lesson2.sh" />
       </list>
     </option>
   </component>
@@ -564,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511297861078</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="написано Python приложение для обработки запросов Application сервера">
+      <created>1511298098615</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1511298098615</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1024,18 +1031,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/lesson2.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/!all.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/lesson2.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
