@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-mkdir /home/box
-mkdir /home/box/web
+sudo ln -s /home/box/web/etc/nginx.conf /etc/nginx/sites-enabled/test.conf
