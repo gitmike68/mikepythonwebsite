@@ -67,8 +67,8 @@ TEMPLATES = [
 
 # TEMPLATE_DIRS = (os.path.join(os.path.dirname(__file__), '../templates'),)
 TEMPLATE_DIRS = (
-    os.path.join(os.path.dirname(__file__), '../templates'),
     '/home/box/web/ask/templates/',
+    '/home/box/web/ask/templates'
 )
 
 WSGI_APPLICATION = 'ask.wsgi.application'
