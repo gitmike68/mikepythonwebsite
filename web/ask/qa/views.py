@@ -9,8 +9,8 @@ def test(request, *args, **kwargs):
     else:
         num = "OK"
 
-    t = get_template('index.html')
-    html = render_to_response(t)
+    # t = get_template('index.html')
+    html = render_to_response('index.html')
 
     return html
     # return HttpResponse(str(num))
