@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/nginx.conf" afterPath="$PROJECT_DIR$/web/etc/nginx.conf" />
     </list>
     <ignored path="C:\Develop\mikepythonwebsite.git\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="98" column="20" lean-forward="true" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+              <caret line="98" column="39" lean-forward="false" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -325,13 +326,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
-    </task>
-    <task id="LOCAL-00014" summary="добавлены папки">
-      <created>1511247677413</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1511247677413</updated>
     </task>
     <task id="LOCAL-00015" summary="устанавливаем конфигурационный файл">
       <created>1511248163259</created>
@@ -669,7 +663,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511351593955</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
+      <created>1511351600960</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1511351600960</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1150,7 +1151,7 @@
     <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
-          <caret line="98" column="20" lean-forward="true" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+          <caret line="98" column="39" lean-forward="false" selection-start-line="98" selection-start-column="39" selection-end-line="98" selection-end-column="39" />
           <folding />
         </state>
       </provider>
