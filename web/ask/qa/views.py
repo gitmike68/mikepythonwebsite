@@ -7,4 +7,5 @@ def test(request, *args, **kwargs):
         num = args[0]
     else:
         num = "OK"
-    return HttpResponse(str(num))
+    return render_to_response('index.html')
+    # return HttpResponse(str(num))
