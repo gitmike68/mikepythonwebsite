@@ -1,5 +1,7 @@
 from django.http import HttpResponse
+from django.shortcuts import render, render_to_response
 
 
 def test(request, *args, **kwargs):
-    return HttpResponse('OK')
+    num = args[0]
+    return HttpResponse(str(num))
