@@ -66,7 +66,9 @@ TEMPLATES = [
 ]
 
 # TEMPLATE_DIRS = (os.path.join(os.path.dirname(__file__), '../templates'),)
-TEMPLATE_DIRS = (os.path.join(os.path.dirname(os.path.dirname(__file__)), 'templates'),)
+TEMPLATE_DIRS = (
+    os.path.join(os.path.dirname(os.path.dirname(__file__)), 'templates').replace("\\", "/"),
+)
 
 WSGI_APPLICATION = 'ask.wsgi.application'
 
@@ -115,3 +117,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# print(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'templates').replace("\\","/"))
+# print(TEMPLATE_DIRS)
