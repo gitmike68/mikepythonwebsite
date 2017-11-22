@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/web/ask/ask/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -323,13 +323,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
-    </task>
-    <task id="LOCAL-00004" summary="добавлен простейший клиент-сервер TCP">
-      <created>1511206736849</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1511206736849</updated>
     </task>
     <task id="LOCAL-00005" summary="добавлен простейший клиент-сервер TCP">
       <created>1511209739290</created>
@@ -667,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511349316958</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="изменена настройка приложения (settings), добавлены разрешения для хоста *">
+      <created>1511350030281</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1511350030281</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -763,7 +763,8 @@
     <MESSAGE value="написано Python приложение для обработки запросов Application сервера" />
     <MESSAGE value="настроен скрипт запуска Django из Gunicorn" />
     <MESSAGE value="изменены настройки nginx -&gt; gunicorn" />
-    <option name="LAST_COMMIT_MESSAGE" value="изменены настройки nginx -&gt; gunicorn" />
+    <MESSAGE value="изменена настройка приложения (settings), добавлены разрешения для хоста *" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменена настройка приложения (settings), добавлены разрешения для хоста *" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1145,7 +1146,7 @@
     <entry file="file://$PROJECT_DIR$/web/ask/ask/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding />
         </state>
       </provider>

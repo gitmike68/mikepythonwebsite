@@ -25,7 +25,7 @@ SECRET_KEY = 'ysv*+^s5$f=)jtoaie^*j&tmh3%gu)5b10n@ipdx5q)o^b%@)1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'test1.home']
 
 
 # Application definition
