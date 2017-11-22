@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ask/ask/settings.py" afterPath="$PROJECT_DIR$/web/ask/ask/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ask/qa/views.py" afterPath="$PROJECT_DIR$/web/ask/qa/views.py" />
     </list>
     <ignored path="C:\Develop\mikepythonwebsite.git\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/ask/ask/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
@@ -176,8 +176,8 @@
         <option value="$PROJECT_DIR$/web/ask/templates/base.html" />
         <option value="$PROJECT_DIR$/web/ask/templates/index.html" />
         <option value="$PROJECT_DIR$/script/!all.sh" />
-        <option value="$PROJECT_DIR$/web/ask/qa/views.py" />
         <option value="$PROJECT_DIR$/web/ask/ask/settings.py" />
+        <option value="$PROJECT_DIR$/web/ask/qa/views.py" />
       </list>
     </option>
   </component>
@@ -239,6 +239,13 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="ask" type="462c0819:PsiDirectoryNode" />
               <item name="ask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="ask" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
@@ -332,13 +339,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
-    </task>
-    <task id="LOCAL-00059" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
-      <created>1511351289687</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1511351289687</updated>
     </task>
     <task id="LOCAL-00060" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
       <created>1511351411198</created>
@@ -676,7 +676,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511372276979</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="пытаюсь настроить путь к templates">
+      <created>1511372889105</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1511372889106</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1095,16 +1102,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/ask/ask/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <element signature="e#637#669#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/lesson3.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1129,16 +1126,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/ask/ask/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1160,6 +1147,26 @@
         <state relative-caret-position="130">
           <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ask/ask/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <element signature="e#637#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

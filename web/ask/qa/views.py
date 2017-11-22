@@ -10,7 +10,7 @@ def test(request, *args, **kwargs):
         num = "OK"
 
     t = get_template('index.html')
-    html = t.render_to_response()
+    html = render_to_response(t)
 
-    return HttpResponse(html)
+    return html
     # return HttpResponse(str(num))
