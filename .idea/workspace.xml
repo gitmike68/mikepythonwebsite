@@ -4,7 +4,6 @@
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ask/qa/views.py" afterPath="$PROJECT_DIR$/web/ask/qa/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ask/templates/base.html" afterPath="$PROJECT_DIR$/web/ask/templates/base.html" />
     </list>
     <ignored path="C:\Develop\mikepythonwebsite.git\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -340,13 +339,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
-    </task>
-    <task id="LOCAL-00064" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
-      <created>1511352099938</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1511352099938</updated>
     </task>
     <task id="LOCAL-00065" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
       <created>1511352267940</created>
@@ -684,7 +676,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511374228819</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="тестирую передачу параметра в шаблон base">
+      <created>1511374384209</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1511374384209</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -788,7 +787,8 @@
     <MESSAGE value="пытаюсь настроить путь к templates" />
     <MESSAGE value="настройка вызова template из контроллера" />
     <MESSAGE value="задание 4 выполнено, шаблоны накладыватся, но ответ происходит не сразу, а после нескольких кликов по ссылке" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 4 выполнено, шаблоны накладыватся, но ответ происходит не сразу, а после нескольких кликов по ссылке" />
+    <MESSAGE value="тестирую передачу параметра в шаблон base" />
+    <option name="LAST_COMMIT_MESSAGE" value="тестирую передачу параметра в шаблон base" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1165,8 +1165,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
