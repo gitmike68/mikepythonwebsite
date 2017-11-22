@@ -22,8 +22,8 @@
       <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+            <state relative-caret-position="381">
+              <caret line="100" column="36" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/web/ask/ask/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="27" />
+              <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="e#637#669#0" expanded="true" />
               </folding>
@@ -165,8 +165,8 @@
         <option value="$PROJECT_DIR$/script/lesson3.sh" />
         <option value="$PROJECT_DIR$/web/ask/ask/settings.py" />
         <option value="$PROJECT_DIR$/web/ask/qa/views.py" />
-        <option value="$PROJECT_DIR$/web/ask/ask/urls.py" />
         <option value="$PROJECT_DIR$/web/etc/nginx.conf" />
+        <option value="$PROJECT_DIR$/web/ask/ask/urls.py" />
       </list>
     </option>
   </component>
@@ -327,13 +327,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
-    </task>
-    <task id="LOCAL-00023" summary="настройки папок сервера">
-      <created>1511269406387</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1511269406388</updated>
     </task>
     <task id="LOCAL-00024" summary="настройки папок сервера">
       <created>1511274145675</created>
@@ -671,7 +664,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511353247109</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
+      <created>1511353532346</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1511353532346</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1142,7 +1142,7 @@
     <entry file="file://$PROJECT_DIR$/web/ask/ask/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="27" />
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="e#637#669#0" expanded="true" />
           </folding>
@@ -1151,8 +1151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+        <state relative-caret-position="381">
+          <caret line="100" column="36" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="36" />
           <folding />
         </state>
       </provider>
