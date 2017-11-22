@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ask/ask/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ask/ask/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ask/ask/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ask/ask/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ask/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/1.jpeg" afterPath="$PROJECT_DIR$/web/public/1.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/1.jpeg" afterPath="$PROJECT_DIR$/web/public/img/1.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/1.png" afterPath="$PROJECT_DIR$/web/public/js/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/uploads/1.jpg" afterPath="$PROJECT_DIR$/web/uploads/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_11_2017_13_13__Default_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/!permissions.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echoclientserver/echoclient.py" afterPath="$PROJECT_DIR$/echoclientserver/echoclient.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/echoclientserver/echoserver.py" afterPath="$PROJECT_DIR$/echoclientserver/echoserver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/!all.sh" afterPath="$PROJECT_DIR$/script/!all.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/lesson1.sh" afterPath="$PROJECT_DIR$/script/lesson1.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/lesson2.sh" afterPath="$PROJECT_DIR$/script/lesson2.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/lesson3.sh" afterPath="$PROJECT_DIR$/script/lesson3.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/hello.py" afterPath="$PROJECT_DIR$/web/etc/hello.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/nginx.conf" afterPath="$PROJECT_DIR$/web/etc/nginx.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/etc/text" afterPath="$PROJECT_DIR$/web/etc/text" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hello.py" afterPath="$PROJECT_DIR$/web/hello.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.html" afterPath="$PROJECT_DIR$/web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/css/main.py" afterPath="$PROJECT_DIR$/web/public/css/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/img/main.py" afterPath="$PROJECT_DIR$/web/public/img/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/js/main.py" afterPath="$PROJECT_DIR$/web/public/js/main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,18 +21,28 @@
       <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
+            <state relative-caret-position="442">
               <caret line="80" column="9" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="80" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="!all.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="!all.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/!all.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="85">
+              <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="!permissions.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script/!permissions.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -73,7 +61,7 @@
       <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="119">
               <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
@@ -93,7 +81,7 @@
       <file leaf-file-name="lesson2.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/lesson2.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="102">
               <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="47" />
               <folding />
             </state>
@@ -140,6 +128,7 @@
         <option value="$PROJECT_DIR$/script/lesson2.sh" />
         <option value="$PROJECT_DIR$/script/!all.sh" />
         <option value="$PROJECT_DIR$/web/hello.py" />
+        <option value="$PROJECT_DIR$/script/!permissions.sh" />
       </list>
     </option>
   </component>
@@ -150,10 +139,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1029" />
-    <option name="height" value="1077" />
+    <option name="x" value="1910" />
+    <option name="width" value="1942" />
+    <option name="height" value="2092" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -170,29 +158,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="box" type="b2602c69:ProjectViewProjectNode" />
-              <item name="box" type="462c0819:PsiDirectoryNode" />
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="box" type="b2602c69:ProjectViewProjectNode" />
-              <item name="box" type="462c0819:PsiDirectoryNode" />
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="box" type="b2602c69:ProjectViewProjectNode" />
-              <item name="box" type="462c0819:PsiDirectoryNode" />
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="ask" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="box" type="b2602c69:ProjectViewProjectNode" />
-              <item name="box" type="462c0819:PsiDirectoryNode" />
+              <item name="mikepythonwebsite.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mikepythonwebsite.git" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="ask" type="462c0819:PsiDirectoryNode" />
               <item name="ask" type="462c0819:PsiDirectoryNode" />
@@ -201,6 +192,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,10 +203,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Develop\mikepythonwebsite.git\web\public\js" />
-      <recent name="C:\Develop\mikepythonwebsite.git\web\etc" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Develop\mikepythonwebsite.git\script" />
       <recent name="C:\Develop\mikepythonwebsite.git\web\etc" />
@@ -221,6 +210,144 @@
       <recent name="C:\Develop\mikepythonwebsite.git\web\public\js" />
       <recent name="C:\Develop\mikepythonwebsite.git\web\public\css" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Develop\mikepythonwebsite.git\web\public\js" />
+      <recent name="C:\Develop\mikepythonwebsite.git\web\etc" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/echoclientserver/echoclient.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/echoclientserver/echoserver.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/main.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/script/!all.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/script/lesson1.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/script/lesson2.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/script/lesson3.sh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/etc/hello.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/etc/nginx.conf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/etc/text</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/hello.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/public/1.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/public/css/main.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/public/img/1.jpeg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/public/img/main.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/public/js/1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/public/js/main.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/uploads/1.jpg</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/ask/ask/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/ask/ask/settings.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/ask/ask/urls.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/ask/ask/wsgi.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/web/ask/manage.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -602,13 +729,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1029" height="1077" extended-state="0" />
+    <frame x="944" y="12" width="968" height="1010" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24878523" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2505241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32661718" sideWeight="0.50182384" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29351184" sideWeight="0.492163" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3011111" sideWeight="0.492163" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.49817613" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -617,12 +745,24 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32661718" sideWeight="0.50182384" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29380342" sideWeight="0.492163" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.49817613" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49634275" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -698,13 +838,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/echoclientserver/echoserver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1024,7 +1157,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/etc/nginx.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
+        <state relative-caret-position="442">
           <caret line="80" column="9" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="80" selection-end-column="9" />
           <folding />
         </state>
@@ -1040,7 +1173,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/lesson2.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="47" />
           <folding />
         </state>
@@ -1048,7 +1181,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="119">
           <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
@@ -1056,8 +1189,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/!all.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="85">
+          <caret line="5" column="72" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/!permissions.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
