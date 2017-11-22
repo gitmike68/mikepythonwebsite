@@ -1,5 +1,6 @@
 from django.http import HttpResponse
 from django.shortcuts import render, render_to_response
+from django.template.loader import get_template
 
 
 def test(request, *args, **kwargs):
@@ -7,5 +8,9 @@ def test(request, *args, **kwargs):
         num = args[0]
     else:
         num = "OK"
-    return render_to_response('index.html')
+
+    t = get_template('index.html')
+    html = t.render_to_response()
+
+    return HttpResponse(html)
     # return HttpResponse(str(num))
