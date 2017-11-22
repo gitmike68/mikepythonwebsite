@@ -4,4 +4,4 @@ sudo rm -r /etc/gunicorn.d
 sudo mkdir /etc/gunicorn.d
 sudo ln -s /home/box/web/etc/hello.py /etc/gunicorn.d/hello.py
 cd /home/box/web/
-sudo gunicorn -c /etc/gunicorn.d/hello.py hello
+sudo gunicorn -c /etc/gunicorn.d/ask.py hello
