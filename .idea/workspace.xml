@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script/mysql_install.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/!all.sh" afterPath="$PROJECT_DIR$/script/!all.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ask/qa/views.py" afterPath="$PROJECT_DIR$/web/ask/qa/views.py" />
     </list>
     <ignored path="C:\Develop\mikepythonwebsite.git\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
-              <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -52,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/script/mysql_install.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,7 +161,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson3" />
+        <entry key="$PROJECT_DIR$" value="lesson4" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -359,13 +356,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
-    </task>
-    <task id="LOCAL-00066" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
-      <created>1511352367969</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1511352367970</updated>
     </task>
     <task id="LOCAL-00067" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
       <created>1511352494391</created>
@@ -703,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511374447391</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="переходим на ветку lesson5">
+      <created>1511437645511</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1511437645511</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -808,7 +805,8 @@
     <MESSAGE value="настройка вызова template из контроллера" />
     <MESSAGE value="задание 4 выполнено, шаблоны накладыватся, но ответ происходит не сразу, а после нескольких кликов по ссылке" />
     <MESSAGE value="тестирую передачу параметра в шаблон base" />
-    <option name="LAST_COMMIT_MESSAGE" value="тестирую передачу параметра в шаблон base" />
+    <MESSAGE value="переходим на ветку lesson5" />
+    <option name="LAST_COMMIT_MESSAGE" value="переходим на ветку lesson5" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1162,7 +1160,7 @@
     <entry file="file://$PROJECT_DIR$/web/ask/qa/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -1172,7 +1170,7 @@
     <entry file="file://$PROJECT_DIR$/script/mysql_install.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
