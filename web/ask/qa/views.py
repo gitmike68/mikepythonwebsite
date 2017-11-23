@@ -16,19 +16,4 @@ def test(request, *args, **kwargs):
     # return HttpResponse(str(num))
 
 
-'''
-class Post(models.Model):  # 1
-    title = models.CharField(max_length=255)  # 2
-    content = models.TextField()  # 3
-    creation_date = models.DateTimeField(blank=True)  # 4
 
-    def __unicode__(self):  # 5
-        return self.title  # 6
-
-    def get_absolute_url(self):  # 7
-        return '/question/%d/' % self.pk  # 8
-
-    class Meta:  # 9
-        db_table = 'qa__question'  # 10
-        ordering = ['-creation_date']  # 11
-'''
