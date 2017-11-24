@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/web/ask/ask/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="362">
-              <caret line="94" column="26" lean-forward="false" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+              <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -486,13 +486,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
     </task>
-    <task id="LOCAL-00080" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
-      <created>1511355498969</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1511355498969</updated>
-    </task>
     <task id="LOCAL-00081" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
       <created>1511355543195</created>
       <option name="number" value="00081" />
@@ -829,7 +822,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511528914492</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="сделаны модели в файле models.py и скорректированы настройки подключения к СУБД MySQL">
+      <created>1511529093141</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1511529093141</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1325,7 +1325,7 @@
     <entry file="file://$PROJECT_DIR$/web/ask/ask/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
-          <caret line="94" column="26" lean-forward="false" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
           <folding />
         </state>
       </provider>
