@@ -7,8 +7,8 @@ class Question(models.Model):
     text = models.TextField()
     added_at = models.DateTimeField(blank=True, auto_now_add=True)
     rating = models.IntegerField()
-    author = User
-    likes = User
+    author = models.ForeignKey(User, null=True)
+    likes = models.ForeignKey(User, null=True)
 
     def __unicode__(self):
         return self.title
@@ -30,7 +30,7 @@ class Answer(models.Model):
     added_at = models.DateTimeField(blank=True, auto_now_add=True)
     # question = models.ForeignKey(Question, null=True, on_delete=models.SET_NULL)
     question = models.ForeignKey(Question, null=True)
-    author = User
+    author = models.ForeignKey(User, null=True)
 
     def __unicode__(self):
         return self.title
