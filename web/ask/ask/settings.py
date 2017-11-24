@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'sitedb',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': '192.168.88.210',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
     }
 }
