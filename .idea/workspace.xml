@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8efa07-95f7-4502-ac92-18f449cde8e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/mysql_install.sh" afterPath="$PROJECT_DIR$/script/mysql_install.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/ask/ask/settings.py" afterPath="$PROJECT_DIR$/web/ask/ask/settings.py" />
     </list>
     <ignored path="C:\Develop\mikepythonwebsite.git\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -475,13 +473,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
     </task>
-    <task id="LOCAL-00077" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
-      <created>1511355240600</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1511355240600</updated>
-    </task>
     <task id="LOCAL-00078" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
       <created>1511355353718</created>
       <option name="number" value="00078" />
@@ -818,7 +809,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511521375395</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="сделаны модели в файле models.py и скорректированы настройки подключения к СУБД MySQL">
+      <created>1511528688161</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1511528688161</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="ToolWindowManager">
