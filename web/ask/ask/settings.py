@@ -46,6 +46,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'qa',
+    'ask.qa',
 ]
 
 ROOT_URLCONF = 'ask.urls'
