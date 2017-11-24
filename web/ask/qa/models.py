@@ -2,6 +2,14 @@ from django.db import models
 from django.contrib.auth.models import User
 
 
+class QuestionManager(models.Manager):
+    def new(self):
+        return self.order_by('-added-at')
+
+    def popular(self):
+        return self.order_by('-rating')
+
+
 class Question(models.Model):
     title = models.CharField(max_length=255, null=True, blank=True)
     text = models.TextField(null=True, blank=True)
@@ -16,14 +24,6 @@ class Question(models.Model):
 
     def get_absolute_url(self):
         return '/question/%d/' % self.pk
-
-
-class QuestionManager(models.Manager):
-    def new(self):
-        return self.order_by('-added-at')
-
-    def popular(self):
-        return self.order_by('-rating')
 
 
 class Answer(models.Model):

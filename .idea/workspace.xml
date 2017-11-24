@@ -85,8 +85,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/ask/qa/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -97,8 +97,8 @@
       <file leaf-file-name="migrate3.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/migrate3.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -524,13 +524,6 @@
       <option name="presentableId" value="Default" />
       <updated>1511205840215</updated>
     </task>
-    <task id="LOCAL-00089" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
-      <created>1511356589293</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1511356589293</updated>
-    </task>
     <task id="LOCAL-00090" summary="nginx настроен на роутинг всех URL задания на Gunicorn">
       <created>1511356647241</created>
       <option name="number" value="00090" />
@@ -867,7 +860,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511534916238</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="скорректирована запись о ModelManager модели Questions">
+      <created>1511541669616</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1511541669616</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -975,7 +975,8 @@
     <MESSAGE value="переходим на ветку lesson5" />
     <MESSAGE value="lesson 5 - работа с СУБД mysql" />
     <MESSAGE value="сделаны модели в файле models.py и скорректированы настройки подключения к СУБД MySQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="сделаны модели в файле models.py и скорректированы настройки подключения к СУБД MySQL" />
+    <MESSAGE value="скорректирована запись о ModelManager модели Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="скорректирована запись о ModelManager модели Questions" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1371,14 +1372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/migrate3.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/ask/ask/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -1403,10 +1396,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/script/migrate3.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/ask/qa/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
