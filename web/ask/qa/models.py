@@ -6,7 +6,7 @@ class Question(models.Model):
     title = models.CharField(max_length=255, null=True, blank=True)
     text = models.TextField(null=True, blank=True)
     added_at = models.DateTimeField(blank=True, auto_now_add=True)
-    rating = models.IntegerField(null=True, blank=True)
+    rating = models.IntegerField(null=True, blank=True, default=0)
     author = models.ForeignKey(User, null=True, related_name='users_question')
     likes = models.ForeignKey(User, null=True, related_name='users_likes')
 
