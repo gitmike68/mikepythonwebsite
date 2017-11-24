@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-cd /home
+sudo chown -R mike:mike /home
+cd /home/
 #меняем владельца
 sudo chown -R mike:mike /home/box
 #меняем права
