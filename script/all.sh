@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# sudo bash /home/box/script/all.sh
 cd /
 sudo rm -r /home/box
 sudo rm /etc/nginx/sites-enabled/test.conf
@@ -11,4 +12,5 @@ sudo rm /etc/nginx/sites-enabled/default
 sudo /etc/init.d/nginx restart
 echo -----Permissions-----
 sudo bash /home/box/script/permissions.sh
+echo -----Permissions-OK-----
 #sudo bash /home/box/script/lesson5.sh
