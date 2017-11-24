@@ -24,7 +24,7 @@ SECRET_KEY = 'ysv*+^s5$f=)jtoaie^*j&tmh3%gu)5b10n@ipdx5q)o^b%@)1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*', 'test1.home']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -45,6 +45,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'qa',
 ]
 
 ROOT_URLCONF = 'ask.urls'
@@ -90,7 +91,7 @@ DATABASES = {
         'NAME': 'sitedb',
         'USER': 'root',
         'PASSWORD': '1',
-        'HOST': '127.0.0.1',
+        'HOST': '192.168.88.210',
         'PORT': '3306',
     }
 }
