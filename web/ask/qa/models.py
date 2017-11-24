@@ -3,12 +3,12 @@ from django.contrib.auth.models import User
 
 
 class Question(models.Model):
-    title = models.CharField(max_length=255)
-    text = models.TextField()
+    title = models.CharField(max_length=255, null=True, blank=True)
+    text = models.TextField(null=True, blank=True)
     added_at = models.DateTimeField(blank=True, auto_now_add=True)
-    rating = models.IntegerField()
-    author = User(null=True)
-    likes = models.ForeignKey(User, null=True)
+    rating = models.IntegerField(null=True, blank=True)
+    author = models.ForeignKey(User, null=True, related_name='users_question')
+    likes = models.ForeignKey(User, null=True, related_name='users_likes')
 
     def __unicode__(self):
         return self.title
