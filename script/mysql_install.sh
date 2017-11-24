@@ -14,4 +14,4 @@
 
 #команды для lesson 5
 sudo /etc/init.d/mysql start
-mysql -u root -e "CREATE DATABASE  IF NOT EXISTS `sitedb`"
+mysql -u root -e "CREATE DATABASE  IF NOT EXISTS `sitedb`;"
