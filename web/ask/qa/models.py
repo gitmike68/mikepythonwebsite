@@ -9,6 +9,7 @@ class Question(models.Model):
     rating = models.IntegerField(null=True, blank=True, default=0)
     author = models.ForeignKey(User, null=True, related_name='users_question')
     likes = models.ForeignKey(User, null=True, related_name='users_likes')
+    objects = QuestionManager()
 
     def __unicode__(self):
         return self.title
